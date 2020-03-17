@@ -15,4 +15,9 @@
 ## git switch -c develop  ------ 同 git checkout -b develop 作用一样  新的 git switch 更容易理解
 ## git switch master  ----- 切换分支
 ## git branch -d develop   ------ 删除分支
+## git branch -D develop   ------ 删除分支   这个分支没有被合并过  强行删除
 
+## git log --graph  可查看分支合并图
+
+
+## git remote 查看远程分支
