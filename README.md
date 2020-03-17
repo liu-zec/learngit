@@ -9,3 +9,4 @@
   ### git branch develop    -------  创建分支
   ### git checkout develop    --------  切换分支
 ## git branch  ------ 查看所有分支
+## master 上分支修改有冲突
