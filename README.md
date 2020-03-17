@@ -21,4 +21,6 @@
 
 
 ## git remote 查看远程分支
-==
+
+## 建立本地分支和远程分支的关联，使用git branch --set-upstream branch-name origin/branch-name
+## 在本地创建和远程分支对应的分支，使用git checkout -b branch-name origin/branch-name，本地和远程分支的名称最好一致
